@@ -75,3 +75,14 @@ The bank wants to understand which customer segments and campaign characteristic
 
 ## Conclusion
 This project demonstrates an end-to-end data analysis workflow using Power BI, from data preparation and KPI development to interactive dashboard design and business insights.
+
+## Dashboard Preview
+
+### Campaign Overview
+![Campaign Overview](screenshots/campaign-overview.png)
+
+### Customer Analysis
+![Customer Analysis](screenshots/customer-analysis.png)
+
+### Campaign Performance
+![Campaign Performance](screenshots/campaign-performance.png)
